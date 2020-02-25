@@ -1,0 +1,4 @@
+#ignorar todos los archivos class
+*.class
+#ignorar el directorio compilado de nodejs
+
